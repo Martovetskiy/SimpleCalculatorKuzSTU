@@ -1,0 +1,124 @@
+# Android/Jetpack Compose
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_*
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.hprof
+*.log
+*.keystore
+*.jks
+*.orig
+*.rej
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.out
+*.lock
+*.xml
+*.json
+*.bin
+*.idx
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.properties
+*.so
+*.dll
+*.exe
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.tar.gz
+*.7z
+*.tgz
+*.tar
+*.gz
+*.rar
+*.xz
+*.lz
+*.lzma
+*.lz4
+*.z
+*.lzop
+*.snap
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+.idea/
+*.code-workspace
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+*.kotlin_module
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Jetpack Compose preview cache
+*.preview/
+
+# Android Studio
+captures/
+
+# Test output
+/test-output/
+
+# Misc
+*.orig
+*.rej
+
+# Ignore generated files
+app/build/
+
+# Ignore local configuration
+local.properties
+
+# Ignore IntelliJ project files
+*.ipr
+*.iws
+*.idea/
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore crash reports
+crashlytics/
+
+# Ignore NDK build folders
+.externalNativeBuild/
+.cxx/
+
+# Ignore generated resource folders
+app/src/main/res/raw/
+
+# Ignore generated PNGs
+app/build/generated/res/pngs/
+
+# Ignore generated resValues
+app/build/generated/res/resValues/
+
